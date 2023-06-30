@@ -1,0 +1,15 @@
+com\Stepdefenitions\Fashion_Stepdefinition.class
+com\Stepdefenitions\SearchWithExcel_Stepdefinition.class
+com\Stepdefenitions\Multiplesearch_Stepdefinition.class
+com\Stepdefenitions\Titleprice_Stepdefinition.class
+com\Pages\Multiplesearch.class
+com\Pages\Searchpage.class
+com\Pages\Filter_page.class
+com\TestRunner\runner.class
+com\Stepdefenitions\Filter_Stepdefinition.class
+com\Pages\Fashion_page.class
+com\Pages\uptoaddcart_page.class
+com\Stepdefenitions\SearchMobile_Testcase.class
+com\Pages\Titleprice_page.class
+com\Pages\Searchexcelpage.class
+com\Stepdefenitions\uptoaddcart_Stepdefinition.class

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 25.455 s <<< FAILURE! - in TestSuite
+com.TestRunner.runner.runScenario["To test the search fuctionality with excel sheet", "To validate the Flipkart Application"](1)  Time elapsed: 20.228 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.apache.log4j.Logger.info(Object)" because "this.logger" is null
+
